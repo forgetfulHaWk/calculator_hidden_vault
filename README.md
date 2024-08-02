@@ -34,14 +34,14 @@ We welcome contributions from the community. If you have any suggestions or impr
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/forgetfulHaWk/calculator_hidden_vault?tab=MIT-1-ov-file#readme) file for details.
 Acknowledgments
 
 Thank you to everyone who has contributed to this project. Your support and feedback are invaluable.
 
 Stay tuned for more updates and features!
 
-For more information, please visit our GitHub repository.
+For more information, please visit our [GitHub](https://github.com/forgetfulHaWk/calculator_hidden_vault) repository.
 
 Feel free to reach out if you have any questions or need assistance!
 
