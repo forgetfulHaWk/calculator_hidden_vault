@@ -8,7 +8,7 @@ Features
     Hidden Vault Access: Enter a specific equation to unlock and access a hidden file vault.
     File Management: Securely store, retrieve, and manage files within the vault.
 
-**Installation**
+## Installation
 
 This section will guide you through the installation process. Details on how to run and execute the code will be provided in future updates.
 Usage
@@ -22,7 +22,7 @@ To access the hidden vault:
     Enter the predefined equation in the calculator.
     The vault interface will appear, allowing you to manage your files securely.
 
-Contributing
+## Contributing
 
 We welcome contributions from the community. If you have any suggestions or improvements, please follow these steps:
 
@@ -32,7 +32,7 @@ We welcome contributions from the community. If you have any suggestions or impr
     Push to the branch (git push origin feature-branch).
     Open a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/forgetfulHaWk/calculator_hidden_vault?tab=MIT-1-ov-file#readme) file for details.
 Acknowledgments
