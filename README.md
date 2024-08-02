@@ -1,4 +1,4 @@
-###Calculator with Hidden Vault
+#Calculator with Hidden Vault
 
 Welcome to the Calculator with Hidden Vault project! This application serves as a standard calculator while incorporating a unique hidden vault feature. When a user inputs a specific equation, they gain access to a secure vault where files can be stored and managed.
 Features
